@@ -1,5 +1,6 @@
 nums = [8,6,4,7,8,0,2,4,6,5]
 ans= nums.copy()
+cout<<""hehe";
 mx=max(nums)
 count = [0]*(mx+1)
 
